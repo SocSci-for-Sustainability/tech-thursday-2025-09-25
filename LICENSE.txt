@@ -1,0 +1,9 @@
+Copyright (c) 2025 Matthew A. Turner, PhD <matt@mat.phd>
+
+This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 
+International License (CC BY-NC 4.0).  
+See https://creativecommons.org/licenses/by-nc/4.0/ for the full license text.
+
+You are free to use, share, and adapt these materials for teaching, learning, 
+or other noncommercial purposes. Please give proper credit, and do not sell 
+these materials or include them in commercial products without permission.
