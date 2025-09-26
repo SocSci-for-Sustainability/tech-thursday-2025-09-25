@@ -23,7 +23,7 @@ We call this formal approach **Δo modeling**—focusing on directional opinion 
 ## 💻 How to use
 
 1. Clone this repository or [download the .zip file](https://github.com/SocSci-for-Sustainability/tech-thursday-2025-09-25/archive/refs/heads/main.zip).
-2. Open `notebooks/simulation_walkthrough.qmd` in RStudio.
+2. Open `index.qmd` in RStudio.
 3. Run through the notebook to:
    - Load the original data.
    - Generate no-change counterfactuals.
@@ -37,7 +37,7 @@ We call this formal approach **Δo modeling**—focusing on directional opinion 
 - `data/schkade_raw.csv` — digitized data from Schkade et al. (2010)  
 - `R/model.R` — adversarial simulation model in R  
 - `R/helpers.R` — helper functions for sampling, reshaping, and plotting  
-- `notebooks/simulation_walkthrough.qmd` — Quarto tutorial notebook walking through key results  
+- `index.qmd` — Quarto tutorial notebook walking through key results  
 - `figures/` — output figures from simulation runs  
 - `results/` — results from main parameter sweeps (false positive rates across design variants)
 
